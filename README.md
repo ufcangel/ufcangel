@@ -1,10 +1,10 @@
 ## Hi There, i'm Angel 👋
 
 <details>
-  <summary>About</summary>
-
-  - 🇮🇹 Italian Developer
-  - 🎄Born on 16/10/2007
+  <summary>About Me</summary>
+  
+🇮🇹 Italian Developer
+🎄Born on 16/10/2007
 </details>
 
 <details>
