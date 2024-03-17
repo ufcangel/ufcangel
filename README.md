@@ -3,8 +3,8 @@
 <details>
   <summary>About Me</summary>
   
--🇮🇹 Italian Developer
--🎄Born on 16/10/2007
+  - 🇮🇹 *Italian* Developer
+  -🎄Born on 16/10/2007
 </details>
 
 <details>
