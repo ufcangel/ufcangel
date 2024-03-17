@@ -1,4 +1,4 @@
-# Hi There, i'm Angel 👋
+## Hi There, i'm Angel 👋
 
 <details>
   <summary>About</summary>
@@ -26,8 +26,8 @@
   - [x] LLVM 
 </details>
 
-  <h2>Statistics</h2>
+## 📈 Stats
   
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ufcangel" alt="tl"/>
-  </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ufcangel" alt="tl"/>
+</p>
