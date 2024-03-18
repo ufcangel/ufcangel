@@ -13,8 +13,6 @@
   <h3>🔥Languages</h3>
 
   - [x] C, C++
-  - [x] HTML/Markdown
-  - [x] CSS
   - [x] C#
   - [x] Rust
   - [x] Typescript
@@ -23,7 +21,6 @@
   
   - [x] Docker
   - [x] Git
-  - [x] LLVM 
 </details>
 
 ## 📈 Stats
