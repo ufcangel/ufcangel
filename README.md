@@ -1,27 +1,17 @@
-## Hi There, i'm Angel 👋
+## Hi There, i'm Itsuki 👋
 
-<details>
-  <summary>About Me</summary>
+<h3>Languages and Tools</h3>
+Italian Dev
+-- Born: 10/2007
   
-    - 🇮🇹 Italian Developer
-    - Born on 16/10/2007
-</details>
+<h3>🔧 Languages And Tools</h3>
 
-<details>
-  <summary>Languages and Tools</summary>
-  
-  <h3>🔥Languages</h3>
-
-  - [x] C, C++
-  - [x] C#
-  - [x] Rust
-  - [x] Typescript
-  
-  <h3>🔧 Tools</h3>
-  
-  - [x] Docker
-  - [x] Git
-</details>
+- [x] C, C++
+- [x] C#
+- [x] Rust
+- [x] Typescript
+- [x] Docker
+- [x] Git
 
 ## 📈 Stats
   
